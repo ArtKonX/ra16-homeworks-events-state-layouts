@@ -3,7 +3,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/29y7wmixm7kud657?svg=true)](https://ci.appveyor.com/project/ArtKonX/ra16-homeworks-events-state-layouts)
 
-[Ссылка на Github Pages](https://artkonx.github.io/ra16-homeworks-events-state-filter/)
+[Ссылка на Github Pages](https://artkonx.github.io/ra16-homeworks-events-state-layouts/)
 
 Вам необоходимо сделать приложение для отображения товаров в интернет-магазине. Заказчик хочет, чтобы пользователь мог увидеть товары в виде карточек или в виде списка, в зависимости от того, какое расположение он выберет.
 
